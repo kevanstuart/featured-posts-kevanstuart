@@ -1,4 +1,5 @@
 ====== Featured Posts Plugin for Wordpress ======
+
 ====== Do no use as is - sample code only  ======
 
 Contributor: Kevan Stuart
